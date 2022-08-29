@@ -1,8 +1,7 @@
 #Keep this line in file.main
-
+This is a test
 
 #Move this line to file.branch
-Google Yahoo Microsoft
 
 #From file.branch
 Github
